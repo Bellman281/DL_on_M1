@@ -44,4 +44,5 @@ def check_backend():
     return 
 ```
 
-### 8. I trained a simple CNN on EMNIST balanced dataset for example. please check the Pytorch_EMNIST notyebook.
+### 8.Train CNN on EMENIST for ref. 
+I trained a simple CNN on EMNIST balanced dataset for example. please check the Pytorch_EMNIST notyebook.
