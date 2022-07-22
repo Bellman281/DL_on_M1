@@ -44,5 +44,5 @@ def check_backend():
     return 
 ```
 
-### 8.Train CNN on EMENIST for ref. 
-I trained a simple CNN on EMNIST balanced dataset for example. please check the Pytorch_EMNIST notyebook.
+### 8.Train CNN on EMENIST for ref.
+I trained a simple CNN on EMNIST balanced dataset for example. please check the Pytorch_EMNIST notyebook. My device is Mac Studio M1 Max not Ultra.
