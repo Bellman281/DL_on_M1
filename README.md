@@ -43,3 +43,5 @@ def check_backend():
     print(f' Device is set to {device}')
     return 
 ```
+
+### 8. I trained a simple CNN on EMNIST balanced dataset for example. please check the Pytorch_EMNIST notyebook.
