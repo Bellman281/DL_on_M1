@@ -25,7 +25,7 @@ pip3 install torch torchvision torchaudio
 ```
 ### 5. install other DS libraries:
 ```bash
-conda install jupyter pandas numpy matplotlib 
+conda install jupyter numpy  
 ```
 ### 6. Run 
 ```shell
