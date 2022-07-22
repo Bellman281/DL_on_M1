@@ -1,4 +1,4 @@
-#  To activate MPS on M1 MAC
+#  To activate MPS on M1 MAC Studion
 
 ### 1. Run these in Terminal
 ```shell
